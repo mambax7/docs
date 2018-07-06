@@ -1,5 +1,5 @@
-*.pyc
-build/*
-*/_build/*
-.DS_Store
-.project
+# no backup files, editor temp
+*~
+\#*
+*.bak
+.idea/
